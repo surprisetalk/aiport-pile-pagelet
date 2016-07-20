@@ -1,0 +1,28 @@
+{
+  "name": "aiport-pile-pagelet",
+  "version": "0.0.1",
+  "description": "",
+  "main": "pagelet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surprisetalk/aiport-pile-pagelet.git"
+  },
+  "keywords": [
+    "aiport",
+    "pile",
+    "pagelet"
+  ],
+  "author": "taylor sarrafian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surprisetalk/aiport-pile-pagelet/issues"
+  },
+  "homepage": "https://github.com/surprisetalk/aiport-pile-pagelet#readme",
+  "dependencies": {
+    "mongoose": "^4.5.5",
+    "underscore": "^1.8.3"
+  }
+}
